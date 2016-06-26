@@ -1,0 +1,17 @@
+header {
+  position: absolute;
+  height: 50%;
+  background-color: #0099cc;
+  width: 100%;
+  z-index: -2;
+}
+
+div.headerImg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: url("http://wideopentech.com/themes/wot-2013-gm/_/img/wot-masthead-dark.jpg") center bottom;
+  background-size: cover;
+  bottom: 0;
+  z-index: -1;
+}
